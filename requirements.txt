@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+deepgram-sdk
+elevenlabs
+python-dotenv
+requests
+pydub
+pyaudio
