@@ -2,7 +2,7 @@
 
 A real-time AI Voice Assistant built using **Python**, **Streamlit**, **Google Gemini**, **Deepgram**, and **pyttsx3**.
 
-## Features
+# Features
 
 - 🎤 Voice Recording
 - 📝 Speech-to-Text using Deepgram
