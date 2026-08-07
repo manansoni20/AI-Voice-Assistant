@@ -3,7 +3,7 @@
 
 A real-time AI Voice Assistant built using **Python**, **Streamlit**, **Google Gemini**, **Deepgram**, and **pyttsx3**.
 
-## ✨ Features
+## Features
 
 - 🎤 Voice Recording
 - 📝 Speech-to-Text using Deepgram
@@ -38,7 +38,7 @@ AI-VoiceAssistant/
 └── README.md
 ```
 
-## 🚀 How to Run
+## How to Run
 
 ```bash
 git clone https://github.com/manansoni20/AI-Voice-Assistant.git
@@ -50,10 +50,7 @@ pip install -r requirements.txt
 streamlit run streamlit_app.py
 ```
 
-## 📷 Preview
-
-(Add a screenshot of your application here.)
-
-## 📜 License
-
+## Preview
+![AI Voice Assistant](assets/preview.png)
+## License
 MIT License
