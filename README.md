@@ -1,5 +1,4 @@
 # AI-Voice-Assistant
-# 🎙️ AI Voice Assistant
 
 A real-time AI Voice Assistant built using **Python**, **Streamlit**, **Google Gemini**, **Deepgram**, and **pyttsx3**.
 
@@ -51,6 +50,7 @@ streamlit run streamlit_app.py
 ```
 
 ## Preview
+
 ![AI Voice Assistant](assets/preview.png)
 ## License
 MIT License
