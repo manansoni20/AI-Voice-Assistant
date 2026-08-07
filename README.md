@@ -50,7 +50,6 @@ streamlit run streamlit_app.py
 ```
 
 ## Preview
-
-![AI Voice Assistant](assets/preview.png)
+![Preview](assets/preview.png)
 ## License
 MIT License
